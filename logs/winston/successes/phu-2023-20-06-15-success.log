@@ -1,0 +1,96 @@
+{
+  message: 'SIGNTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:00:36.902Z'
+}
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:05:22.252Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:05:22.260Z'
+}
+{
+  message: 'SIGNTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:07:22.708Z'
+}
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:08:21.263Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:08:21.270Z'
+}
+{
+  message: 'SIGNTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:12:05.020Z'
+}
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:12:57.422Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:12:57.431Z'
+}
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:17:36.863Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:17:36.870Z'
+}
+{
+  message: 'SIGNTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:18:01.101Z'
+}
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:19:16.618Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:19:16.625Z'
+}
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:29:47.725Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T09:29:47.740Z'
+}

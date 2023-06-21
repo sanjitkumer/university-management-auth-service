@@ -1,0 +1,36 @@
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T10:42:59.901Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T10:42:59.910Z'
+}
+{
+  message: 'SIGNTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T10:48:48.781Z'
+}
+{
+  message: 'Database is connecting successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T10:49:40.349Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T10:49:40.356Z'
+}
+{
+  message: 'SIGNTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-20T10:52:02.003Z'
+}
